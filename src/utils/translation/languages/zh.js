@@ -1,0 +1,65 @@
+export default {
+  // header
+  settings: '设定值',
+  bookmarks: '收藏夹',
+  recentNews: '最近的新闻',
+  searchedNews: '搜索结果',
+  // buttons
+  logout: '登出',
+  comments: '查看所有评论',
+  cancel: '取消',
+  send: '发送',
+  // placeholders
+  writeComment: '写个评论',
+  // category
+  general: '一般',
+  business: '财经',
+  health: '健康',
+  science: '科学',
+  entertainment: '娱乐',
+  sports: '体育',
+  technology: '技术',
+  // preferences
+  preferences: '优先',
+  mode: '夜间模式',
+  notification: '通知事项',
+  loc: '各地新闻',
+  timeSpent: '时间阅读',
+  lang: '语言',
+  block: '屏蔽广告和闪烁',
+  help: '帮助与建议',
+  months: [
+    '一月',
+    '二月',
+    '游行',
+    '四月',
+    '可能',
+    '六月',
+    '七月',
+    '八月',
+    '八月',
+    '十月',
+    '十一月',
+    '十二月',
+  ],
+  //auth-login
+  forgotPassword: '忘记密码了吗？',
+  resetPassword: '立即重设密码',
+  createAccount: '还没有账号？',
+  signUpNow: '立即注册',
+  password: '密码',
+  email: '电子邮件',
+  signup: '注册',
+  //auth-sing up
+  name: '名称',
+  haveAccount: '已经有帐号了？',
+  loginNow: '现在登录',
+  login: '登录',
+  //columnist screen
+  mentions: '提及',
+  yourMentions: '你的评论',
+  mentioned: '提及',
+  noComment: '您尚未发表评论',
+  //bookmark screen
+  noBookmark: '尚无收藏',
+};

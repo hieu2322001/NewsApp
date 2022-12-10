@@ -1,0 +1,65 @@
+export default {
+  // header
+  settings: 'Settings',
+  bookmarks: 'Bookmarks',
+  recentNews: 'Recent News',
+  searchedNews: 'Search Results',
+  // buttons
+  logout: 'Logout',
+  comments: 'See all comments',
+  cancel: 'Cancel',
+  send: 'Send',
+  // placeholders
+  writeComment: 'Write a comment...',
+  // category
+  general: 'General',
+  business: 'Business',
+  health: 'Health',
+  science: 'Science',
+  entertainment: 'Entertainment',
+  sports: 'Sports',
+  technology: 'Technology',
+  // preferences
+  preferences: 'Preferences',
+  mode: 'Dark mode',
+  notification: 'Notifications',
+  loc: 'News by location',
+  timeSpent: 'Time to read',
+  lang: 'Language',
+  block: 'Block ads and flashes',
+  help: 'Help and Suggestions',
+  months: [
+    'Jan',
+    'Feb',
+    'Mar',
+    'Apr',
+    'May',
+    'Jun',
+    'Jul',
+    'Aug',
+    'Sep',
+    'Oct',
+    'Nov',
+    'Dec',
+  ],
+  //auth-login
+  forgotPassword: 'Forgot your password ? ',
+  resetPassword: 'Reset your password.',
+  createAccount: "Don't have an account ? ",
+  signUpNow: 'Sign up now!',
+  password: 'Password',
+  email: 'Email',
+  signup: 'Sign Up',
+  //auth-sing up
+  name: 'Username',
+  haveAccount: 'Already have an account ? ',
+  loginNow: 'Login now!',
+  login: 'Login',
+  //columnist screen
+  mentions: 'Mentions',
+  yourMentions: 'Your Comments',
+  mentioned: 'Mentioned',
+  noComment: 'You have not commented yet.',
+  //bookmark screen
+  noBookmark: 'No bookmarks yet.',
+};
